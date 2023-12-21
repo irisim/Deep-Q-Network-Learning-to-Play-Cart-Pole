@@ -8,4 +8,4 @@ To calculate the loss function we are going to use a copy **Target** NN and  **b
 <img width="298" alt="image" src="https://github.com/irisim/Deep-Q-Network-Learning-to-Play-Cart-Pole/assets/142989167/acec0e3c-2087-48a2-8286-9e96c7ee97af">
 
 
-#AI #RL #QLearning #NN #GYM #CartPole
+#AI #RL #QLearning #NN #GYM #CartPole #BellmanEquation
